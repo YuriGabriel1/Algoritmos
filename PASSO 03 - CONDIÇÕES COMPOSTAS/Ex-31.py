@@ -25,7 +25,7 @@ if jogador == computador:
 elif (jogador == 1 and computador == 3) or \
      (jogador == 2 and computador == 1) or \
      (jogador == 3 and computador == 2):
-    print("Você ganhou! 🎉")
+    print("Você ganhou! ")
 
 else:
-    print("Computador ganhou 😢")
+    print("Computador ganhou!")
